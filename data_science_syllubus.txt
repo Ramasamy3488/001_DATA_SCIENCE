@@ -1,0 +1,229 @@
+Module - 1
+
+Python - Basics
+
+Why Python
+
+Python IDE
+
+Hello World Program
+
+Variables & Names
+
+String Basics
+
+List
+
+Tuple
+
+Dictionaries
+
+Conditional Statements
+
+For and While Loop
+
+Functions
+
+Numbers and Math Functions
+
+Common Errors in Python
+
+
+
+
+
+Module-2
+
+Python - Advanced
+
+Functions as Arguments
+
+List Comprehension
+
+File Handling
+
+Debugging in Python
+
+Class and Objects
+
+Lambda, Filters and Map
+
+Regular Expressions
+
+Python PIP
+
+Read Excel Data in Python
+
+Python MySQL
+
+Iterators
+
+Pickling
+
+Python JSON
+
+
+
+Module-3
+
+
+Algorithmic thinking with Python
+
+Introduction to algorithmic Thinking 
+
+Algorithm Efficiency and time complexity
+
+Example algorithms - binary search, 
+
+Euclid s algorithm
+
+Data structures - stack, heap and binary trees
+
+Memory Management/Technologies
+
+Best Practices Keeping it simple, dry code, 
+
+naming Conventions, Comments and docs.
+
+Assessment
+
+
+
+Module-4
+
+Data handling in Python - Pandas & MongoDB
+
+Introduction to Pandas
+
+Series Data Structure - Querying and Indexing
+
+DataFrame Data Structure - Querying, 
+
+Indexing and loading
+
+Merging data frames
+
+Group by operation
+
+Pivot table
+
+Date/Time functionality
+
+Example: Manipulating DataFrame
+
+
+
+
+Module-5
+
+MongoDB
+
+No Schema
+
+Install MongoDB
+
+How MongoDB Works?
+
+Insert First Data
+
+CRUD Operations
+
+Insert Many
+
+Update and Update Many
+
+Delete and Delete Many
+
+
+
+
+Module-6
+
+MongoDB - Continued
+
+Diving Deep into find Difference between update and update many
+
+Projection
+
+Intro to Embed Documents
+
+Embed Documents in Action
+
+Adding Arrays
+
+Fetching Data From Structured Data
+
+Schema Types
+
+Types of Data in MongoDB
+
+Relationship between data s
+
+One to One using Embed Method
+
+One to One using ReferenceMany
+
+One to Many Embed
+
+One to ManyReferenceMethod
+
+Assessment - MongoDB
+
+
+Module-7
+
+Probability and Statistics with Numpy
+
+Why counting and probability theory?
+
+Basics of sample and event space
+
+Axioms of probability
+
+Total Probability theorem and Bayes Theorem
+
+Random variables, PMF and CDF
+
+Discrete Distributions - Bernoulli, Binomial and Geometric
+
+Expectation and its properties
+
+Variance and its properties
+
+Continuous Distributions - uniform, exponential and normal
+
+Sampling from continuous distributions
+
+Simulation techniques - simulating in NumPy
+
+Assessment
+
+
+Module-8
+
+Probability and Statistics with Numpy - Continued
+
+Inferential statistics - sample vs population
+
+CLT and it s proof
+
+Chi-squared distribution and its properties
+
+Point and Interval Estimators
+
+Estimation technique - MLE
+
+Interval Estimator of μ with unknown σ
+
+Examples of estimators
+
+Hypothesis Testing - I
+
+Hypothesis Testing - II
+
+Hypothesis Testing - III
+
+Assessment
+
+
+
